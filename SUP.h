@@ -20,5 +20,4 @@
 
 + (void)test;
 
-+ (void)New;
 @end
