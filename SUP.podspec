@@ -136,6 +136,6 @@ s.source       = { :git => "https://github.com/knockknew/libSUP.git", :tag => "#
 # s.dependency "JSONKit", "~> 1.4"
 s.dependency "AFNetworking"
 s.dependency "JWT"
-s.vendored_libraries = "SUP/libSUP.a"
+#s.vendored_library = "SUP/libSUP.a"
 
 end
